@@ -1,2 +1,1 @@
-# MrMeriic.github.io
-hey deneme
+# MrMeriic.github
